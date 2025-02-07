@@ -14,11 +14,11 @@ portifolio project is a website that highlights my achievements, past experience
 
 ## Live Demo
 
-[Live Demo Link](https://rugwizangoga.github.io/Portifolio/)
+[Live Demo Link](https://smangalisodladla.netlify.app)
 
 ## Getting Started
 
-$ git clone git@github.com:rugwizangoga/Portifolio.git
+$ git clone git@github.com:Usmanga-28/SSDladla Portifolio
 
 $ cd Portifolio
 
@@ -26,28 +26,15 @@ Then open index.html on the bowser to run the project
 
 ## 👤 Author
 
-IRADUKUNDA Pacific Rugwizangoga
+Sifiso Smangaliso Dladla
 
-- GitHub: [@githubhandle](https://github.com/rugwizangoga)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
+- GitHub: [@githubhandle](https://github.com/Usmanga-28)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sifiso-dladla-3aab2520a)
 
-## 🤝 Contributors
 
-Peter CHENDI
-
-- GitHub: [@githubhandle](https://github.com/anyepeter)
-
-NGUFOR Emmanuella
-
-- GitHub: [@githubhandle](https://github.com/Ngufor-emmanuella)
-
-OLUSOLA Olugboye
-
-- GitHub: [@githubhandle](https://github.com/Adetunbosun)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/)
 
 ## Show your support
 
